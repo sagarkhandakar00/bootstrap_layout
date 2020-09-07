@@ -1,0 +1,14 @@
+header, .body{
+	margin:15px 0;
+}
+.box, .box2{
+	padding:18px 15px;
+	background:#99D9EA;
+	font-size:25px;
+	font-weight:700;
+	color:#555;
+	margin:0;
+}
+.box2{
+	padding:45px 15px;
+}
